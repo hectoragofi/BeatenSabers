@@ -10,7 +10,7 @@ Me - [@hectoragofi](https://www.github.com/hectoragofi)
 
 ## Installation
 
-- Copy the assets file from github or the full project from [here]([https://i.imgur.com/DB40oPp.png](https://mega.nz/folder/oC9z3DLJ#UWn0iZWb4MMXbpuGYxaauA))
+- Copy the assets file from github or the full project from [here](https://mega.nz/folder/oC9z3DLJ#UWn0iZWb4MMXbpuGYxaauA)
 - Has been tested with oculus
 ## Screenshots
 
